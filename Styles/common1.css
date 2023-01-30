@@ -1,0 +1,19 @@
+.container {
+	display: flex;
+	justify-content: center;
+}
+
+.images {
+	text-align: center;
+	margin-top: 15px;
+}
+.text {
+	display: flex;
+	justify-content: center;
+}
+
+p {
+	margin-left: 40px;
+	margin-right: 40px;
+	font-size: 25px;
+}

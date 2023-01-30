@@ -1,0 +1,17 @@
+h1 {
+	text-align: center;
+	color: #A52A2A;
+	font-style: bold;
+	font-size: 50px;
+}
+
+.vyvod {
+	float: left;
+	margin-right: 10px;
+}
+
+p {
+	color:  black;
+	font-size: 25px;
+	font-weight: bold;
+}
