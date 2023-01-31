@@ -8,7 +8,7 @@ body::before {
   	-o-background-size: cover;
   	background-size: cover;
   	content: "";
-  	opacity: 0.75;
+  	opacity: 0.65;
   	top: 0;
  	left: 0;
  	bottom: 0;
