@@ -1,13 +1,15 @@
 .container {
-	display: flex;
-	align-items: center;
-	flex-direction: column;
 	margin-top: 20px; 
+}
+
+iframe {
+	margin-right: auto;
+    display: block;
+    margin-left: auto;
 }
 
 p {
 	font-weight: bold;
 	font-size: 25px;
-	margin-left: auto;
-	margin-right: auto;
+	text-align: center;
 }
